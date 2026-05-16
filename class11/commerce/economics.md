@@ -42,8 +42,8 @@ permalink: /class11/commerce/economics/
       <span class="ch-name">Ch 2: Collection of Data</span>
       <span class="ch-tag">PDF</span>
     </a>
-    <a href="/class11/commerce/economics/chapter6" class="chapter-btn">
-      <span class="ch-name">Ch 6: Elasticity of Demand</span>
+    <a href="/class11/commerce/economics/chapter1" class="chapter-btn">
+      <span class="ch-name">Ch 1: Economics And Economy</span>
       <span class="ch-tag">PDF</span>
     </a>
   </div>
